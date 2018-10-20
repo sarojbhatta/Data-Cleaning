@@ -1,0 +1,70 @@
+
+1. KRT7 - Non-small lung cancer subtypes: adenocarcinoma and squamous cell carcinoma
+Annotation: KRT7, keratin 7
+Organism: Homo sapiens
+Reporter: GPL570, 209016_s_at (ID_REF), GDS3627, 3855 (Gene ID), BC002700 (nucleotide)
+DataSet type: Expression profiling by array, transformed count, 58 samples
+ID: 62794131
+
+2. ROBO1 - Cisplatin-resistant non-small cell lung cancer cell line
+Annotation: ROBO1, roundabout guidance receptor 1
+Organism: Homo sapiens
+Reporter: GPL6244, 8088919 (ID_REF), GDS5247, NM_001145845 (nucleotide), NM_002941 (nucleotide), NM_133631 (nucleotide), AF040990 (nucleotide), BC112336 (nucleotide), BC115020 (nucleotide), BC115022 (nucleotide), BC157861 (nucleotide), BC171855 (nucleotide), chr3:78646390-79639061 (SPOT ID)
+DataSet type: Expression profiling by array, transformed count, 6 samples
+ID: 119035613
+
+3. GJA5 - Cisplatin-resistant non-small cell lung cancer cell line
+Annotation: GJA5, gap junction protein alpha 5
+Organism: Homo sapiens
+Reporter: GPL6244, 7919340 (ID_REF), GDS5247, NM_005266 (nucleotide), NM_181703 (nucleotide), BC013313 (nucleotide), chr1:147228893-147245451 (SPOT ID)
+DataSet type: Expression profiling by array, transformed count, 6 samples
+ID: 119018723
+
+4. FADS2 - Cisplatin-resistant non-small cell lung cancer cell line
+Annotation: FADS2, fatty acid desaturase 2
+Organism: Homo sapiens
+Reporter: GPL6244, 7940565 (ID_REF), GDS5247, NM_001281501 (nucleotide), AF108658 (nucleotide), AF126799 (nucleotide), BC009011 (nucleotide), NM_001281502 (nucleotide), NM_004265 (nucleotide), AF084559 (nucleotide), BX640945 (nucleotide), chr11:61583749-61634825 (SPOT ID)
+DataSet type: Expression profiling by array, transformed count, 6 samples
+ID: 119020876
+
+5. HMOX1 - V-ets erythroblastosis virus E26 oncogene homolog 2 knockdown effect on lung cancer cells
+Annotation: HMOX1, heme oxygenase 1
+Organism: Homo sapiens
+Reporter: GPL6244, 8072678 (ID_REF), GDS5040, NM_002133 (nucleotide), BC001491 (nucleotide), BT019785 (nucleotide), CR456505 (nucleotide), CR541945 (nucleotide), CR541968 (nucleotide), chr22:35777057-35790200 (SPOT ID)
+DataSet type: Expression profiling by array, transformed count, 6 samples
+ID: 110502656
+
+6. SOX2 - Non-small lung cancer subtypes: adenocarcinoma and squamous cell carcinoma
+Annotation: SOX2, SRY-box 2
+Organism: Homo sapiens
+Reporter: GPL570, 228038_at (ID_REF), GDS3627, 6657 (Gene ID), AI669815 (nucleotide)
+DataSet type: Expression profiling by array, transformed count, 58 samples
+ID: 62812993
+
+7. ADGRD1 - Cisplatin-resistant non-small cell lung cancer cell line
+Annotation: ADGRD1, adhesion G protein-coupled receptor D1
+Organism: Homo sapiens
+Reporter: GPL6244, 7959893 (ID_REF), GDS5247, NM_198827 (nucleotide), AL162032 (nucleotide), AY278561 (nucleotide), AY532280 (nucleotide), BC047951 (nucleotide), BC112307 (nucleotide), BC112309 (nucleotide), BC143775 (nucleotide), EU523118 (nucleotide), chr12:131438837-131626006 (SPOT ID)
+DataSet type: Expression profiling by array, transformed count, 6 samples
+ID: 119022856
+
+8. KIAA1324L - Cisplatin-resistant non-small cell lung cancer cell line
+Annotation: KIAA1324L, KIAA1324 like
+Organism: Homo sapiens
+Reporter: GPL6244, 8140709 (ID_REF), GDS5247, NM_001142749 (nucleotide), NM_001291990 (nucleotide), NM_001291991 (nucleotide), NM_152748 (nucleotide), AK296250 (nucleotide), AK303619 (nucleotide), BC117309 (nucleotide), chr7:86509238-86669531 (SPOT ID)
+DataSet type: Expression profiling by array, transformed count, 6 samples
+ID: 119041053
+
+9. FST - Cisplatin-resistant non-small cell lung cancer cell line
+Annotation: FST, follistatin
+Organism: Homo sapiens
+Reporter: GPL6244, 8105302 (ID_REF), GDS5247, NM_006350 (nucleotide), NM_013409 (nucleotide), AB451330 (nucleotide), BC004107 (nucleotide), CR541813 (nucleotide), chr5:52776417-52781943 (SPOT ID)
+DataSet type: Expression profiling by array, transformed count, 6 samples
+ID: 119037345
+
+10. HPGDS - Cisplatin-resistant non-small cell lung cancer cell line
+Annotation: HPGDS, hematopoietic prostaglandin D synthase
+Organism: Homo sapiens
+Reporter: GPL6244, 8101780 (ID_REF), GDS5247, NM_014485 (nucleotide), BC020734 (nucleotide), CR541662 (nucleotide), CR541679 (nucleotide), D82073 (nucleotide), chr4:95219707-95264027 (SPOT ID)
+DataSet type: Expression profiling by array, transformed count, 6 samples
+ID: 119036957

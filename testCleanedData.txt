@@ -1,0 +1,11 @@
+SI#	GENE	GDS		ORGANISM	SAMPLE
+1	KRT7	GDS3627	Homo sapiens	58
+2	ROBO1	GDS5247	Homo sapiens	6
+3	GJA5	GDS5247	Homo sapiens	6
+4	FADS2	GDS5247	Homo sapiens	6
+5	HMOX1	GDS5040	Homo sapiens	6
+6	SOX2	GDS3627	Homo sapiens	58
+7	ADGRD1	GDS5247	Homo sapiens	6
+8	KIAA1324L	GDS5247	Homo sapiens	6
+9	FST	GDS5247	Homo sapiens	6
+10	HPGDS	GDS5247	Homo sapiens	6
